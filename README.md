@@ -4,6 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-alarc%C3%B3n-carbajal//)](https://www.linkedin.com/in/martin-alarc%C3%B3n-carbajal/)
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://github.com/Alarchemn)](https://github.com/Alarchemn)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-676767?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=SA9OOTcAAAAJ&hl=en)](https://scholar.google.com/citations?user=SA9OOTcAAAAJ&hl=en)
 
 <!--
 **Alarchemn/Alarchemn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
