@@ -1,6 +1,9 @@
 ### Hi there 👋
 - 🧑‍💻 Applied ML Scientist
 - 🎓 PhD in engineering sciences (Machine learning in control theory)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-alarc%C3%B3n-carbajal//)](https://www.linkedin.com/in/martin-alarc%C3%B3n-carbajal/) 
+
 <!--
 **Alarchemn/Alarchemn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
